@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prashant-Ambole
-- 👀 I’m interested in Automation Test Engineer
+- 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning API Testing, SQL Queries, Seleniun
 - 📫 How to reach me @Mail- amprashant.807@gmail.com
 
